@@ -1,2 +1,2 @@
-# RNN-CNN-based-Natural-Language-Inference
-NLP HW2
+# RNN/CNN-based Natural Language Inference
+
