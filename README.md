@@ -17,4 +17,4 @@
 * paramter-tuning(hidden size, dropout rate), 
 * evaludation on MNLI by genres
 * 3 correct/incorrect samples
-* Fine-tuning on MNLI by genres 
+* Bonus: Fine-tuning on MNLI by genres
