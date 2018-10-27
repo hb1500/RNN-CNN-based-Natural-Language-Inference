@@ -18,3 +18,8 @@
 * evaludation on MNLI by genres
 * 3 correct/incorrect samples
 * Bonus: Fine-tuning on MNLI by genres
+
+> Results folder(docs/https://github.com/hb1500/RNN-CNN-based-Natural-Language-Inference/tree/master/results) includes:
+* all intermediate training, validation accuracy and loss record 
+* RNN plots: loss, train, validation curves by hidden size and dropout
+* RNN plots: loss, train, validation curves by hidden size and kernel size
